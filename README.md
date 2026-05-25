@@ -37,3 +37,8 @@ The system uses a MySQL database named `library_db` with the following tables:
 3. Create the required tables (books and members)
 4. Open the project in Visual Studio
 5. Update the connection string: server=localhost;database=library_db;uid=root;pwd=**YOUR_PASSWORD**;
+6. Run the application
+
+
+## Author
+Abdanie Hadjijamel – Information Systems Student
